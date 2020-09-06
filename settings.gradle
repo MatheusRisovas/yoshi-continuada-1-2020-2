@@ -1,0 +1,2 @@
+include ':app'
+rootProject.name = "Yoshi-Continuada-1-2020-2"
